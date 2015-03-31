@@ -3,3 +3,5 @@ Second change for adding to the index. Second version.
 Changes from other contributor.
 
 Second changes from other contributor.
+
+Changes from a first branch.
