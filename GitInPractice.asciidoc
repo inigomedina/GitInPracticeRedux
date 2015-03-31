@@ -4,4 +4,4 @@ Changes from other contributor.
 
 Second changes from other contributor.
 
-Changes from a first branch.
+Changes from a first branch and maybe a conflict.
